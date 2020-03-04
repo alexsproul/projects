@@ -9,9 +9,15 @@ The application is quite simple but demonstrates the use of Swing layouts, anony
 ### Images:
 When the program runs, this is the screen displayed.
 ![Starting Screen](https://github.com/alexsproul/projects/blob/master/javasamples/images/RockPaperScissorsStart.PNG)
+
 In this example, the user clicks one of the buttons and the computer chooses the same option. After a tie, the screen colour changes to yellow and the score remains the same.
+
 ![Tie Screen](https://github.com/alexsproul/projects/blob/master/javasamples/images/RockPaperScissorsTie.PNG)
+
 In the second image, the user selects a button and loses the match. The background colour turns red and their score decreases to -1.
+
 ![Loss Image](https://github.com/alexsproul/projects/blob/master/javasamples/images/RockPaperScissorsLoss.PNG)
+
 Finally, the user selects a button and wins the match. The background changes to green and their score increments.
+
 ![Win Image](https://github.com/alexsproul/projects/blob/master/javasamples/images/RockPaperScissorsWin.PNG)
