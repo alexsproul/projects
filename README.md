@@ -61,5 +61,5 @@ PHP is an embedded programming language that provides interactivity to HTML web 
 This year, I challenged myself to learn a new type of mathematics. Matrix and linear algebra is an essential skillset required for people with an interest in machine learning. For my Professional Practices in IT course, I chose to watch 100% of the videos on Khan Academy teaching this topic. I am extremely proud to have completed this course and feel much more confident in my ability to progress in my knowledge of machine learning and artificial intelligence as I continue to move forward with my education.
 
 # Contact
-## [LinkedIn Profile](https://www.linkedin.com/in/alexsproul/ "Link to LinkedIn Profile")
-## [Email](alexsproul@hotmail.com "Link to my email.")
+* [LinkedIn Profile](https://www.linkedin.com/in/alexsproul/ "Link to LinkedIn Profile")
+* [Email](alexsproul@hotmail.com "Link to my email.")
