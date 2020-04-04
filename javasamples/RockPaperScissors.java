@@ -23,7 +23,7 @@ public class RockPaperScissors extends JFrame
 {
    //Specifies the height and width of the window
    private final int WINDOW_WIDTH = 600;
-   private final int WINDOW_HEIGHT = 600;
+   private final int WINDOW_HEIGHT = 200;
    
    //This will keep track of the score.
    private int score;
